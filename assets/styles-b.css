@@ -130,10 +130,14 @@ a { color: inherit; }
 }
 .hero-photo figcaption {
   position: relative; z-index: 1; margin-top: 0.9rem;
-  display: flex; align-items: center; gap: 0.7rem;
-  font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--muted);
+  display: flex; align-items: flex-start; gap: 0.7rem;
+  font-size: 0.85rem; letter-spacing: 0.015em; color: var(--muted); line-height: 1.5;
 }
-.hero-photo figcaption i { width: 22px; height: 1px; background: var(--ox); display: block; flex: none; }
+.hero-photo figcaption i { width: 22px; height: 1px; background: var(--ox); display: block; flex: none; margin-top: 0.72rem; }
+.hero-photo figcaption b {
+  display: block; text-transform: uppercase; letter-spacing: 0.16em;
+  font-size: 0.75rem; font-weight: 700; color: var(--ink); margin-bottom: 0.25rem;
+}
 
 /* ---------- fact band ---------- */
 .facts { background: var(--ink); color: var(--bone); margin-top: 4.5rem; }

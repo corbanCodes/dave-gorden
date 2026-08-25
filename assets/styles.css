@@ -133,6 +133,14 @@ a { color: inherit; }
 }
 .portrait-caption { margin-top: 0.9rem; font-size: 0.78rem; letter-spacing: 0.14em; text-transform: uppercase; color: var(--muted-light); }
 .portrait-caption b { color: var(--brass-bright); font-weight: 700; display: block; letter-spacing: 0.2em; }
+.portrait-caption .cred {
+  display: block; text-transform: none; letter-spacing: 0.015em;
+  font-size: 0.85rem; color: var(--muted-light); line-height: 1.5;
+}
+.portrait-caption .cred:first-of-type { margin-top: 0.4rem; }
+/* caption sits on a light section (about page) — darken for contrast */
+.section:not(.dark) .portrait-caption b { color: #8a6a2c; }
+.section:not(.dark) .portrait-caption .cred { color: var(--muted); }
 
 /* stat strip */
 .stat-strip { position: relative; z-index: 2; border-top: 1px solid rgba(175, 138, 66, 0.22); background: rgba(6, 18, 13, 0.55); margin-top: 3.5rem; }
