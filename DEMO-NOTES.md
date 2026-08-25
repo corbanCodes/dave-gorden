@@ -7,6 +7,7 @@ Demo built 24 Aug 2026 from the Aug 23 discovery call. Three pages as agreed:
 - **One job: make them call.** Phone number is the nav CTA, the hero CTA, the mid-page CTA band on every page, and the footer. Form is positioned as the after-hours fallback ("expect a call back, not an email chain").
 - **Pricing is a non-discussion.** Nothing on the site references money, rates, price lists, "investment," or cost comparisons — per Dave (needs analysis $5k / $1250 day rate are never advertised) and per Corban 8/25 (no meta-commentary about the absence of pricing either). The framing is diagnosis-first ("prescription without diagnosis is malpractice"), never cost.
 - **No payments on the site**, per Dave. No mention of deposits either — keep money off the site entirely.
+- **Never write copy about the website or the sale** (Corban 8/25). Anything that reads like notes from the discovery call is a failure — it may sell Dave to *us*, but a hospital CEO should never see it. Struck 8/25: "this site has one job: getting you two on the phone," "no one sells Dave like Dave," "no gatekeepers / no scheduling link," "he's never needed a sales team," "this site exists because even a referral wants something to look at," and the 80%-of-Discovery-Visits-convert stat. Rule of thumb: if the sentence is *about* the site, the funnel, or Dave's close rate, it goes. Write to the buyer about their guests.
 - C-suite-first / Internal Guest vs External Guest is the through-line on all three pages.
 
 ## Concept A / B (added 25 Aug)
