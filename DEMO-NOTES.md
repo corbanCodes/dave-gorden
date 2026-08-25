@@ -76,8 +76,8 @@ rare in this category and reads upmarket. Worth showing Dave both and letting hi
 ## Placeholders & asks for Dave
 1. **Photography.** The one photo we have is his LinkedIn headshot, AI-upscaled to 1254px (8/25) — holds up well in the framed portrait treatment. Dave said he's lost 50 lbs and needs new card photos anyway — ask for 3–5 hi-res shots: one on stage, one portrait, one candid with a client group. That unlocks a real photo hero.
 2. **Client letters.** His old 8-page site had many letters from clients. Get the 3 best and add an "In Their Words" section (index + about). **Do not fabricate testimonials in the meantime** — none are on the demo.
-3. **Confirm client naming.** The about page references "a national snack-food company" (Tom's Foods) and "a greeting-card giant" (Hallmark) *without naming them*. If Dave OKs naming them, swap the real names in — much stronger.
-4. **The case study.** The Pigeon Forge / Greenbrier story is on programs.html, reframed as an alternative-experience story ("The retreat that became a campsite") — resort unnamed, no dollar figures, no money angle. Confirm Dave's comfortable with the level of detail.
+3. ~~**Confirm client naming.**~~ Resolved 8/25 — Dave named **Hallmark** himself (98 stores mystery-shopped coast to coast), so the About page now says it. Tom's Foods is still "a national snack-food company"; ask whether that one can be named too.
+4. **The case study.** The Pigeon Forge story on programs.html now **names The Greenbrier Resort** (Dave's call, 8/25). Two things to confirm: (a) he's comfortable naming a real resort in a story about talking a client out of going there; (b) the spelling — he wrote "Greenbriar," but the actual West Virginia resort is **The Greenbrier**, so that's what's on the page. Still no dollar figures anywhere in the story.
 5. **"Eight out of ten"** Discovery Visit close rate is on programs.html — from his own words (80%). Confirm he wants it public.
 6. **Facebook** — he wasn't sure he has a page. LinkedIn only for now.
 7. **Domain** — his email is dave@davegorden.net; confirm he controls davegorden.net and wants the site there.

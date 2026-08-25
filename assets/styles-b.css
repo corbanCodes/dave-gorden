@@ -288,9 +288,12 @@ footer { background: var(--ink); color: #a9a094; padding: 3rem 0 2rem; }
 .foot-grid .brand-name { color: #fff; }
 .foot-grid .brand-tag { color: #8a8175; }
 .foot-links { list-style: none; display: flex; flex-wrap: wrap; gap: 1.5rem; }
-.foot-links a { color: #a9a094; text-decoration: none; font-size: 0.86rem; }
+.foot-links a { color: #a9a094; text-decoration: none; font-size: 1rem; }
 .foot-links a:hover { color: #fff; }
-.foot-contact { font-size: 0.9rem; line-height: 1.9; }
+.foot-contact { font-size: 1.08rem; line-height: 1.95; }
+/* footer brand reads larger than the header lockup */
+footer .brand-name { font-size: 1.55rem; }
+footer .brand-tag { font-size: 0.8rem; }
 .foot-contact a { color: #fff; text-decoration: none; font-weight: 600; }
 .disclaimer { font-size: 0.74rem; color: #797166; border-top: 1px solid rgba(247, 243, 236, 0.12); padding-top: 1.3rem; line-height: 1.7; }
 

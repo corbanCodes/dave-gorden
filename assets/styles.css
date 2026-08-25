@@ -295,10 +295,14 @@ footer {
   padding: 3.2rem 0 2.2rem; border-top: 1px solid rgba(175, 138, 66, 0.2);
 }
 .foot-grid { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: flex-start; gap: 2rem; margin-bottom: 2.2rem; }
-.foot-links { list-style: none; display: flex; flex-wrap: wrap; gap: 1.4rem; }
-.foot-links a { color: var(--muted-light); text-decoration: none; font-size: 0.86rem; }
+.foot-links { list-style: none; display: flex; flex-wrap: wrap; gap: 1.5rem; }
+.foot-links a { color: var(--muted-light); text-decoration: none; font-size: 1rem; }
 .foot-links a:hover { color: var(--brass-bright); }
-.foot-contact { font-size: 0.9rem; line-height: 2; }
+.foot-contact { font-size: 1.08rem; line-height: 2; }
+/* footer brand reads larger than the header lockup */
+footer .brand-mark { width: 50px; height: 50px; }
+footer .brand-name { font-size: 1.5rem; letter-spacing: 0.1em; }
+footer .brand-tag { font-size: 0.78rem; letter-spacing: 0.16em; }
 .foot-contact a { color: var(--cream); text-decoration: none; font-weight: 600; }
 .foot-contact a:hover { color: var(--brass-bright); }
 .disclaimer { font-size: 0.75rem; color: #6d7f74; border-top: 1px solid rgba(175, 138, 66, 0.15); padding-top: 1.4rem; line-height: 1.7; }
