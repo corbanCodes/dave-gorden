@@ -32,6 +32,46 @@ the persistent mobile call bar, which matters a lot for a site whose only job is
 **If Dave picks B**, the interior pages should be restyled to match (currently they carry A's
 pine/brass). Budget ~an hour for that.
 
+## What the category actually does (competitive research, 25 Aug)
+
+Reviewed Shep Hyken, Scott McKain, Jay Baer, Dan Gingiss, Brittany Hodak, Ryan Estis,
+Jon Gordon, Simon Sinek. Dave's closest comps are Hyken / Baer / Gingiss / Hodak —
+customer-service and CX speakers, not celebrity mega-brands.
+
+**We already match the pattern on:**
+- Booking CTA pinned in the header as the only filled button (6 of 7 comps do exactly this)
+- A phone number in the chrome — event planners work on deadlines and they call
+- Headline is a claim about the buyer's business, not a job title. Zero comps lead with
+  "Keynote Speaker & Author"; ours leads with the astonishment claim
+- A named, ownable framework. **"Guest Astonishment" is Dave's biggest asset** — comps
+  trademark theirs (*Beyond Distinction*, *Superfans*, *The Experience Maker*) because
+  packaged IP is what justifies a speaking fee
+- Big face above the fold (after the 25 Aug fix — see below)
+
+**The three gaps, in priority order:**
+1. **A "Trusted by" logo wall or client list.** Every single comp puts social proof within
+   one scroll of the hero; several put a press bar *inside* the hero. We have none because
+   we have no assets. This is the highest-value ask on the call — even a text list of
+   industries-plus-client-types would work if logos need permission.
+2. **A "For Meeting Planners" page.** Hyken, Gingiss, Hodak and Gordon all have one:
+   downloadable bio, A/V requirements, intro script, headshots, pre-program questionnaire.
+   It is the cheapest credibility signal in the category and it is *the* speaker-specific
+   page type. Strong candidate for page four.
+3. **A speaking reel.** Universally the second CTA, always styled weaker than the booking
+   button (ghost outline or text link). Dave has no video — worth asking whether any client
+   has recorded him.
+
+**Photo finding:** for CX/service speakers a large, energetic, mid-gesture face above the
+fold is the norm (Hyken, Baer, Gingiss, Hodak). A static corporate portrait reads
+*consultant*, not *keynoter*. Our arch medallion was the most conservative photo treatment
+of any site reviewed, so on 25 Aug A's portrait was enlarged from 238px to 360px and
+re-cropped tighter on his face. Both concepts now lead with the face.
+
+**Palette finding:** the premium-feeling comps are all dark above the fold (navy, near-black,
+deep green) with a single ruthless accent. That favors **A**. B answers with the other
+half of the pattern — the Jay Baer move of a serif display face and a big cutout, which is
+rare in this category and reads upmarket. Worth showing Dave both and letting him react.
+
 ## Placeholders & asks for Dave
 1. **Photography.** The one photo we have is his LinkedIn headshot, AI-upscaled to 1254px (8/25) — holds up well in the framed portrait treatment. Dave said he's lost 50 lbs and needs new card photos anyway — ask for 3–5 hi-res shots: one on stage, one portrait, one candid with a client group. That unlocks a real photo hero.
 2. **Client letters.** His old 8-page site had many letters from clients. Get the 3 best and add an "In Their Words" section (index + about). **Do not fabricate testimonials in the meantime** — none are on the demo.
