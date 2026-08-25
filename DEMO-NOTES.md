@@ -9,6 +9,29 @@ Demo built 24 Aug 2026 from the Aug 23 discovery call. Three pages as agreed:
 - **No payments on the site**, per Dave. No mention of deposits either — keep money off the site entirely.
 - C-suite-first / Internal Guest vs External Guest is the through-line on all three pages.
 
+## Concept A / B (added 25 Aug)
+
+Two homepage concepts, same content strategy and the same interior pages
+(`programs.html`, `about.html` are shared). A fixed **Concept A | B** pill (bottom-left,
+demo only) flips between them live on the call.
+
+| | **A — `index.html`** | **B — `b.html`** |
+|---|---|---|
+| Feel | Dark, atmospheric, "private club" | Light, editorial, "author / authority" |
+| Palette | Deep pine + brass + cream | Bone + ink + oxblood (pulled from his tie) |
+| Type | Cormorant Garamond (delicate, high-contrast) | Source Serif 4 (sturdy, HBR-ish) |
+| His photo | 238px medallion in an arch frame | 380px portrait panel, face is the hero |
+| Content blocks | Icon cards (3-up grids) | Numbered editorial rows + hairline rules |
+| Mobile CTA | In-page buttons | **Sticky bottom call bar**, always visible |
+
+**Why B exists:** on A the client's own face is a small ornament, and the page is built from
+card grids — competent but template-flavored. Speaker sites sell the *speaker*; B leads with
+a big, warm, mid-story photo of Dave and treats the copy like a magazine feature. B also adds
+the persistent mobile call bar, which matters a lot for a site whose only job is phone calls.
+
+**If Dave picks B**, the interior pages should be restyled to match (currently they carry A's
+pine/brass). Budget ~an hour for that.
+
 ## Placeholders & asks for Dave
 1. **Photography.** The one photo we have is his LinkedIn headshot, AI-upscaled to 1254px (8/25) — holds up well in the framed portrait treatment. Dave said he's lost 50 lbs and needs new card photos anyway — ask for 3–5 hi-res shots: one on stage, one portrait, one candid with a client group. That unlocks a real photo hero.
 2. **Client letters.** His old 8-page site had many letters from clients. Get the 3 best and add an "In Their Words" section (index + about). **Do not fabricate testimonials in the meantime** — none are on the demo.
@@ -20,7 +43,9 @@ Demo built 24 Aug 2026 from the Aug 23 discovery call. Three pages as agreed:
 8. **DISC** — confirm he can market the DISC assessment under that name (he resells via the DISC company).
 
 ## Launch checklist
+- **Pick a concept**, delete the loser (and its stylesheet), rename the winner to `index.html`.
+- Remove the `.ab-toggle` div from every page.
 - Remove `data-demo` from the contact form (Netlify Forms attrs already wired), set form notification email.
-- Remove the `.demo-bar` div from all three pages.
+- Remove the `.demo-bar` div from all pages.
 - Netlify: import repo `corbanCodes/dave-gorden`, attach domain, enable form detection.
 - Add repo to the 60ms-hq-publisher token's repository list; link in HQ Sites page.
