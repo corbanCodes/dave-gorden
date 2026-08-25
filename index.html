@@ -65,20 +65,21 @@
       </div>
     </div>
   </div>
-  <svg class="hero-ridges" viewBox="0 0 1440 300" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
+  <svg class="hero-trend" viewBox="0 0 1440 300" preserveAspectRatio="xMidYMax slice" aria-hidden="true">
     <defs>
-      <linearGradient id="ridge1" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#1a4432" stop-opacity="0.55"/>
+      <linearGradient id="trendfill" x1="0" y1="0" x2="0" y2="1">
+        <stop offset="0" stop-color="#1a4432" stop-opacity="0.45"/>
         <stop offset="1" stop-color="#081a13" stop-opacity="0"/>
       </linearGradient>
-      <linearGradient id="ridge2" x1="0" y1="0" x2="0" y2="1">
-        <stop offset="0" stop-color="#123125" stop-opacity="0.8"/>
-        <stop offset="1" stop-color="#081a13" stop-opacity="0.1"/>
+      <linearGradient id="trendline" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#d3ac60" stop-opacity="0"/>
+        <stop offset="0.55" stop-color="#d3ac60" stop-opacity="0.4"/>
+        <stop offset="1" stop-color="#d3ac60" stop-opacity="0.85"/>
       </linearGradient>
     </defs>
-    <path d="M0 190 L170 100 L330 170 L520 70 L710 165 L890 95 L1090 175 L1270 115 L1440 165 V300 H0 Z" fill="url(#ridge1)"/>
-    <path d="M0 240 L210 160 L400 225 L600 140 L800 220 L990 155 L1180 225 L1360 175 L1440 210 V300 H0 Z" fill="url(#ridge2)"/>
-    <path d="M0 190 L170 100 L330 170 L520 70 L710 165 L890 95 L1090 175 L1270 115 L1440 165" fill="none" stroke="#d3ac60" stroke-width="1.2" stroke-opacity="0.35"/>
+    <path d="M0 268 C 240 262, 400 246, 580 220 S 920 155, 1110 112 S 1360 52, 1440 34 L1440 300 L0 300 Z" fill="url(#trendfill)"/>
+    <path d="M0 268 C 240 262, 400 246, 580 220 S 920 155, 1110 112 S 1360 52, 1440 34" fill="none" stroke="url(#trendline)" stroke-width="2"/>
+    <path d="M0 288 C 260 284, 450 268, 640 244 S 1000 190, 1190 152 S 1400 104, 1440 94" fill="none" stroke="#1a4432" stroke-width="1.5" opacity="0.9"/>
   </svg>
   <div class="stat-strip">
     <div class="wrap">
